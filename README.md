@@ -1,5 +1,6 @@
 # **Predict Customer Clicked Ads Classification by Using Machine Learning**
 
+![Alt Link](pictures/your-competitors-are-clicking-on-your-ads.png)
 ---
 
 ## Background
@@ -26,7 +27,7 @@ This project aims to build a machine learning-based classification model that ca
 7. Make recommendations based on the findings from modeling and EDA.
 
 ---  
-## Dataset
+## [Dataset](https://github.com/Yogaaprila/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning/blob/main/Clicked%20Ads%20Dataset.csv)
 
 This Dataset has 1000 columns and 11 columns.
 
@@ -53,3 +54,7 @@ This Dataset has 1000 columns and 11 columns.
 ## Tools
 1. Python Programming Language
 2. Jupyterlab
+
+---
+## Documentation 
+1. [Python Notebook](https://github.com/Yogaaprila/Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning/blob/main/Predict%20Customer%20Clicked%20Ads%20Classification%20by%20Using%20Machine%20Learning.ipynb)
